@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+    border: 5px solid red;
+   
+    
+}
+
+.navbar1{
+    display: flex;
+    background-color: rgb(53, 58, 78);
+    align-items: center;
+    
+}
+.navbar1 a{
+    color: white;
+
+}
+.navbar1 img{
+    margin-right: 30px;
+    margin-left: 10px;
+}
+
+.navbar1 p{
+    margin-right: 35px;
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+}
+.navbar1 input{
+    padding: 10px 200px;
+}
+.navbar1 a{
+    margin-right: 35px;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+.navbar1 button{
+         margin-right: 35px;
+         border: none;
+         padding: 11px 40px;
+         font-style: italic;
+         font-size: 15px;
+}
+
+.navbar2{
+    background-color: rgb(1, 1, 7);
+   padding: 5px ;
+   font-style: italic;
+   font-size: 25px;
+}
+
+
+.navbar2 a{
+    margin-right: 35px;
+    text-decoration: none;
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    
+}
+
+.banner{
+     background-image: url("1.jpg");
+     background-size: cover;
+     height: 100vh;
+     display: flex;
+}
+
+.photo1{
+    margin-right: 33px;
+    margin-left: 33px;
+
+    
+}
+.photo2{
+    margin-right: 33px;
+    
+}
+.photo3{
+    margin-right: 33px;
+}
+.photo4{
+    margin-right: 33px;
+    
+}
+.photo5{
+    margin-right: 15px;
+}
